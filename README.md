@@ -1,4 +1,4 @@
-# Algoritmos y Programacion 2
+# COROSO STORE - Algoritmos y Programacion 2
 
 Proyecto base para la asignatura de Algoritmos y Programacion 2. Incluye un mini-sistema tipo tienda con manejo de usuario, cartera, biblioteca e historial de compras. El objetivo es practicar clases, objetos, metodos y flujo de menus en consola.
 
