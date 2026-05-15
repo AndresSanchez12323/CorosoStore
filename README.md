@@ -16,16 +16,5 @@ Proyecto base para la asignatura de Algoritmos y Programacion 2. Incluye un mini
 ## Requisitos
 - Java JDK 8 o superior.
 
-## Como ejecutar
-Desde la raiz del proyecto:
-
-1) Compilar todas las clases:
-
-	javac Clases\*.java main\Main.java
-
-2) Ejecutar:
-
-	java -cp . main.Main
-
 ## Notas
 - Las clases estan en el paquete por defecto (sin package). Si deseas usar paquetes, agrega la declaracion package y ajusta las rutas de compilacion.
